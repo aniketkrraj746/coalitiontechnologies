@@ -1,0 +1,41 @@
+.navbar{
+    /* display: flex; */
+    /* justify-content: space-between; */
+
+    width: 100%;
+    background-color: transparent;
+    position: absolute;
+    /* top: 0; */
+    z-index: 1;
+    
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    /* margin: 20px; */
+    padding: 10px;
+    
+
+}
+/* .internalTags{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    color: #fefeff;
+
+} */
+nav div{
+    display: flex;
+    position: absolute;
+    left: 70%;
+    gap: 20px;
+}
+a{
+    display: flex;
+    font: bolder;
+    /* font-size: 28px; */
+    color: #fefeff;
+    font-weight: bolder;
+    
+}
