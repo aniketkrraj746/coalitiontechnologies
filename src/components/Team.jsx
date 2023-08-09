@@ -84,8 +84,10 @@ const Team = () => {
   return (
     <div id="Team">
       {/* <p className="team-title">02.<span>climb</span></p> */}
+      <h1>02.</h1>
+      <h2>CLIMB</h2>
       <p>
-        <span>02.CLIMB</span>Lorem ipsum dolor sit amet, consectetur adipiscing
+        Lorem ipsum dolor sit amet, consectetur adipiscing
         elit. Vestibulum id purus nunc. Sed quis dui at justo pellentesque
         vulputate ac vitae sapien. Nullam tempus vestibulum sem, ac eleifend
         augue. Sed id sem gravida justo iaculis sagittis. Donec sollicitudin

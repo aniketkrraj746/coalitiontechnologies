@@ -33,6 +33,29 @@
     bottom: 0;
     left: 25%;
 }
-.thumbs{
-    border-radius: 100%;
+
+
+.history-text h2{
+    position: absolute;
+    top: 0;
+    font-size: 9rem;
+}
+.history-text .box{
+    /* position: absolute; */
+    /* top: 0; */
+    background-color: black;
+    border: 2px solid black;
+    height: 20px;
+    width: 20px;
+
+}
+.history-text .history-word{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    font-size: 3rem;
+}
+.history-text p{
+    position: absolute;
+    top: 144px;
 }
